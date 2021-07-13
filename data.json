@@ -1,0 +1,22 @@
+ 
+[
+    {
+        "id" : 1,
+        "name" : "Apple",
+        "description" : "1 Kg",
+        "date" : "5th July, 2021"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Orange",
+        "description" : "2 Kg",
+        "date" : "3rd July, 2021"
+
+
+    }
+]
+
+
+
+
